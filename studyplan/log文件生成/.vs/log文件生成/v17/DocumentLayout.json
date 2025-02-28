@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\gitCode\\studyplan\\log\u6587\u4EF6\u751F\u6210\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A236730E-194C-4863-A51C-EF57CD17D282}|log\u6587\u4EF6\u751F\u6210.vcxproj|D:\\gitCode\\studyplan\\log\u6587\u4EF6\u751F\u6210\\log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A236730E-194C-4863-A51C-EF57CD17D282}|log\u6587\u4EF6\u751F\u6210.vcxproj|solutionrelative:log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "log.cpp",
+              "DocumentMoniker": "D:\\gitCode\\studyplan\\log\u6587\u4EF6\u751F\u6210\\log.cpp",
+              "RelativeDocumentMoniker": "log.cpp",
+              "ToolTip": "D:\\gitCode\\studyplan\\log\u6587\u4EF6\u751F\u6210\\log.cpp",
+              "RelativeToolTip": "log.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAB4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-25T12:46:03.461Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

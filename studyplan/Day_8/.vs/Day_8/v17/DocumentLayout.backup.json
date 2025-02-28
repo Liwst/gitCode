@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\gitCode\\studyplan\\Day_8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BE62A0E-496E-41FB-AFA1-A2EA7209A573}|Day_8.vcxproj|D:\\gitCode\\studyplan\\Day_8\\Deque\u5BB9\u5668.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2BE62A0E-496E-41FB-AFA1-A2EA7209A573}|Day_8.vcxproj|solutionrelative:Deque\u5BB9\u5668.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BE62A0E-496E-41FB-AFA1-A2EA7209A573}|Day_8.vcxproj|D:\\gitCode\\studyplan\\Day_8\\Vector_\u4E92\u6362\u5BB9\u5668.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2BE62A0E-496E-41FB-AFA1-A2EA7209A573}|Day_8.vcxproj|solutionrelative:Vector_\u4E92\u6362\u5BB9\u5668.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Deque\u5BB9\u5668.cpp",
+              "DocumentMoniker": "D:\\gitCode\\studyplan\\Day_8\\Deque\u5BB9\u5668.cpp",
+              "RelativeDocumentMoniker": "Deque\u5BB9\u5668.cpp",
+              "ToolTip": "D:\\gitCode\\studyplan\\Day_8\\Deque\u5BB9\u5668.cpp*",
+              "RelativeToolTip": "Deque\u5BB9\u5668.cpp*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-28T12:56:22.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vector_\u4E92\u6362\u5BB9\u5668.cpp",
+              "DocumentMoniker": "D:\\gitCode\\studyplan\\Day_8\\Vector_\u4E92\u6362\u5BB9\u5668.cpp",
+              "RelativeDocumentMoniker": "Vector_\u4E92\u6362\u5BB9\u5668.cpp",
+              "ToolTip": "D:\\gitCode\\studyplan\\Day_8\\Vector_\u4E92\u6362\u5BB9\u5668.cpp",
+              "RelativeToolTip": "Vector_\u4E92\u6362\u5BB9\u5668.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAcwDUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-28T12:23:34.107Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
