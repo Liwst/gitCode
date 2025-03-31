@@ -1,0 +1,3 @@
+﻿  接雨水.cpp
+D:\gitCode\studyplan\Day_14\接雨水.cpp(9,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Day_14.vcxproj -> D:\gitCode\studyplan\Day_14\x64\Debug\Day_14.exe
