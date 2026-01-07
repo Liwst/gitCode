@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+.env
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Runtime outputs
+outputs/
+logs/
+*.log
+
+# Weights / checkpoints (do not commit)
+weights/**/*.pth
+weights/**/*.pt
+weights/**/*.ckpt
+
+# Data (optional, if you have datasets here)
+data/
+datasets/

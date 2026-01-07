@@ -1,0 +1,10 @@
+## 只做推理系统，不改训练代码、严格目录结构、统一接口必须保持
+工程结构固定：app.py / core/ / models/ / utils/ / weights/ / outputs/ / tools/ / demo/
+
+所有模型必须实现 Segmenter 接口：load/preprocess/infer/postprocess/visualize
+
+新增模型只允许改：models/<name>_wrapper.py + models/registry.py
+
+路径不允许硬编码绝对路径：全部相对路径
+
+后端先跑通 smoke test，再做 UI
